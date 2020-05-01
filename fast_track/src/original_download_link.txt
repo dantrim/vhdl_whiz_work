@@ -1,0 +1,4 @@
+The original resources file with the git tags for each lesson is located on
+Lesson 1 of 5 under "Setting up the software tools" of the VHDL Whiz Fast Track
+course:
+https://academy.vhdlwhiz.com/products/fpga-and-vhdl-fast-track-hands-on-for-absolute-beginners/categories/2091000/posts/6980517
